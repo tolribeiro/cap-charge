@@ -4,4 +4,4 @@ Helps you mark the instants wherein the capacitor gets charged with a specific v
 
 Thus, with these data, automatically generates its charging/discharging graph (voltage versus time).
 
-Link: tolribeiro.github.io/cap-charge
+Link: http://tolribeiro.github.io/cap-charge
